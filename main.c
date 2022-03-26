@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <X11/Xlib.h>
-#include "../../arg.h"
+#include <sl/arg.h>
 char *argv0, *fmt = "%dx%d\n" ;
 Display *dpy;
 int sw, sh, screen;

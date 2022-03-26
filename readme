@@ -1,8 +1,4 @@
 # xgeo
 xgeo - get X geometry
-## Installation
-To install run:
-``
-	$ mk install
-``
-By default installtion happens into "$HOME/local/bin". Can be changed in "mkconfig" file'
+
+To skip arguments of output use %0.0s part of printf.
